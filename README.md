@@ -1,11 +1,11 @@
-- 👋 Hi, I’m @k11kirky
-- 👀 I’m interested in ...
-Travel, 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @k11kirky Founder of Props AI
+
+- https://getProps.ai
 
 - 📫 How to reach me ...
-k11kirky@gmail.com
+Peter@Props.ai
+
+
 
 <!---
 k11kirky/k11kirky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
