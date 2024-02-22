@@ -3,7 +3,7 @@
 - https://getProps.ai
 
 - 📫 How to reach me ...
-Peter@Props.ai
+- Peter@GetProps.ai
 
 
 
